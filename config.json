@@ -1,0 +1,5 @@
+{
+    "token": "<TOKEN>",
+    "guildId": "<GUILD_ID>",
+    "channelId": "<CHANNEL_ID>"
+}
